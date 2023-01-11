@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  MapHW
-//
-//  Created by Denis Fomichev on 1/10/23.
-//
-
 import UIKit
 
 @main
